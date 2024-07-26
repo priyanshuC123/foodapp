@@ -1,0 +1,123 @@
+body{
+  margin: 0px;
+  padding: 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.home{
+  margin-right: 50px;
+  margin-left: 40px;
+}
+.link{
+  padding: 2rem;
+  text-decoration: none;
+  color: beige;
+  font-size: 2rem;
+}
+.navbar{
+  background-color: black;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+button{
+  margin: 10px;
+  background-color: #4CAF50; /* Green */
+  border-radius: 5%;
+  border: none;
+  color: white;
+  outline-offset:30px;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  
+}
+
+input {
+  width: 10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+*{
+  box-sizing: border-box;
+}
+a{
+  cursor: pointer;
+}
+body{
+  color: #222;
+}
+img{
+  max-width: 100%;
+}
+main{
+  padding: 10px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+
+.inputt1{
+  width: 40%;
+  text-align: center;
+}
+.inputt2{
+  width: 96%;
+  
+  
+}
+.inputt3{
+  margin: 2%;
+  
+}
+
+.inputs{
+  width: 30%;
+}
+.inputsTime{
+  width: 30%;
+  text-align: center;
+}
+ul{
+list-style-type: square;
+font-size: 2rem;
+
+}
+ul li{
+    border-bottom:1px solid #000;
+}
+.HomeTitle{
+  margin: 0px;
+  font-size: 3rem;
+  border-bottom:1px solid #000;
+}
+
+.SavedTitle{
+   margin: 0px;
+   font-size: 3rem;
+  border-bottom:1px solid #000;
+}
+
+.food-img{
+  width: 30%;
+  height: 30%;
+}
+.saved-img{
+  width: 30%;
+  height: 30%;
+}
+.login{
+  padding-bottom: 5px;
+  border-bottom:5px dashed #000;
+  
+}
